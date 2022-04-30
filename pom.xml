@@ -6,7 +6,7 @@
   <groupId>io.operon</groupId>
   <artifactId>java-starter-project</artifactId>
   <packaging>jar</packaging>
-  <version>0.9.1-RELEASE</version>
+  <version>0.9.4-RELEASE</version>
 
   <name>Operon Java-starter project</name>
   <url>https://operon.io</url>
@@ -45,8 +45,8 @@
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-    <operon.version>0.9.1-RELEASE</operon.version>
-    <log4j.version>2.17.1</log4j.version>
+    <operon.version>0.9.4-RELEASE</operon.version>
+    <log4j.version>2.17.2</log4j.version>
   </properties>
 
   <dependencies>
