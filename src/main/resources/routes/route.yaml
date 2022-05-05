@@ -1,0 +1,7 @@
+- from:
+    uri: "timer://foo"
+    steps:
+      - set-body:
+          constant: "Select: 123"
+      - to:
+          uri: "operon://foo?outputResult=true"

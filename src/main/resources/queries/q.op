@@ -1,0 +1,5 @@
+Select: {
+    "bin": "bai",
+    "baa": 100,
+    "baba": [123, null, [], {}]
+}

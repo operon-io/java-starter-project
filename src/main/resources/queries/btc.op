@@ -1,0 +1,6 @@
+Select:
+    -> http:{"url": "https://api.coindesk.com/v1/bpi/currentprice.json"}
+    .body
+    ..EUR
+    [1]
+    .rate_float
